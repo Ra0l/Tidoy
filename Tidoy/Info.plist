@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string></string>
+	</array>
+	<key>Item0</key>
+	<string>Manrope-Bold.ttf</string>
+	<key>Item1</key>
+	<string>Manrope-ExtraBold.ttf</string>
+	<key>Item2</key>
+	<string>Manrope-Light.ttf</string>
+	<key>Item3</key>
+	<string>Manrope-Medium.ttf</string>
+	<key>Item4</key>
+	<string>Manrope-Regular.ttf</string>
+	<key>Item5</key>
+	<string>Manrope-SemiBold.ttf</string>
+	<key>Item6</key>
+	<string>Manrope-ExtraLight.ttf</string>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+					<key>UISceneStoryboardFile</key>
+					<string>Main</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>
